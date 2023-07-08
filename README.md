@@ -1,4 +1,4 @@
 # Despesas
-Aplicativo básico utilizando flutter
+Aplicativo básico utilizando flutter IOS/Android
 
 
