@@ -1,5 +1,4 @@
-# despesas
-
-A new Flutter project.
+# Despesas
+Aplicativo básico utilizando flutter
 
 
